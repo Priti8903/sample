@@ -11011,3 +11011,722 @@
 [2024-09-20 11:18:44] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/lib/animations/styles
 [2024-09-20 11:18:44] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/lib/animations/styles
 [2024-09-20 11:18:44] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/lib/animations/styles
+[2024-09-20 11:18:44] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/lib/animations/styles
+[2024-09-20 11:18:44] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/lib/animations/styles
+[2024-09-20 11:18:44] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/lib/animations/styles
+[2024-09-20 11:18:44] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/lib/animations/styles
+[2024-09-20 11:18:44] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/lib/animations/styles
+[2024-09-20 11:18:44] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/lib/animations/styles
+[2024-09-20 11:18:44] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/lib/animations/styles
+[2024-09-20 11:18:44] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/lib/animations/styles
+[2024-09-20 11:18:44] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/lib/animations/styles
+[2024-09-20 11:18:44] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/lib/animations/styles
+[2024-09-20 11:18:44] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/lib/animations/styles
+[2024-09-20 11:18:44] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/lib/animations/styles
+[2024-09-20 11:18:44] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/lib/animations/styles
+[2024-09-20 11:18:44] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/lib/animations/styles
+[2024-09-20 11:18:44] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/lib/animations/styles
+[2024-09-20 11:18:44] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/lib/animations/styles
+[2024-09-20 11:18:44] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/lib/animations/styles
+[2024-09-20 11:18:44] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/lib/animations/styles
+[2024-09-20 11:18:44] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/lib/animations/styles
+[2024-09-20 11:18:44] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/lib/animations/styles
+[2024-09-20 11:18:44] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/lib/animations/styles
+[2024-09-20 11:18:44] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/lib/animations/styles
+[2024-09-20 11:18:44] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/lib/animations/styles
+[2024-09-20 11:18:44] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/lib/backbone
+[2024-09-20 11:18:44] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/lib/backbone
+[2024-09-20 11:18:44] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/lib/backbone
+[2024-09-20 11:18:44] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/lib/backbone
+[2024-09-20 11:18:44] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/lib/color-thief
+[2024-09-20 11:18:44] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/lib/dialog
+[2024-09-20 11:18:44] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/lib/dialog
+[2024-09-20 11:18:44] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/lib/e-gallery/css
+[2024-09-20 11:18:44] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/lib/e-gallery/css
+[2024-09-20 11:18:44] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/lib/e-gallery/js
+[2024-09-20 11:18:44] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/lib/e-gallery/js
+[2024-09-20 11:18:44] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/lib/e-select2/css
+[2024-09-20 11:18:44] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/lib/e-select2/css
+[2024-09-20 11:18:44] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/lib/e-select2/js
+[2024-09-20 11:18:44] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/lib/e-select2/js
+[2024-09-20 11:18:44] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/lib/eicons/css
+[2024-09-20 11:18:44] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/lib/eicons/css
+[2024-09-20 11:18:44] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/lib/eicons
+[2024-09-20 11:18:44] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/lib/eicons/fonts
+[2024-09-20 11:18:44] [class-ss-transfer-files-locally-task.php:73] [Transfer] Total Pages:719. Processed Pages: 150
+[2024-09-20 11:18:44] [class-ss-task.php:44] Status message: [transfer_files_locally] Transferred 150 of 719 files
+[2024-09-20 11:18:44] [trait-can-process-pages.php:110] Total pages: 719; Pages remaining: 569
+[2024-09-20 11:18:44] [class-ss-archive-creation-job.php:181] We're not done with the transfer_files_locally task yet
+[2024-09-20 11:18:44] [class-ss-archive-creation-job.php:136] Current task: transfer_files_locally
+[2024-09-20 11:18:44] [class-ss-archive-creation-job.php:153] Performing task: transfer_files_locally
+[2024-09-20 11:18:44] [class-ss-task.php:44] Status message: [transfer_files_locally] Transferring 50 of 719 files
+[2024-09-20 11:18:44] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/lib/eicons/fonts
+[2024-09-20 11:18:44] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/lib/eicons/fonts
+[2024-09-20 11:18:45] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/lib/eicons/fonts
+[2024-09-20 11:18:45] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/lib/eicons/fonts
+[2024-09-20 11:18:45] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/lib/flatpickr
+[2024-09-20 11:18:45] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/lib/flatpickr
+[2024-09-20 11:18:45] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/lib/flatpickr
+[2024-09-20 11:18:45] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/lib/flatpickr
+[2024-09-20 11:18:45] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/lib/font-awesome/css
+[2024-09-20 11:18:45] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/lib/font-awesome/css
+[2024-09-20 11:18:45] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/lib/font-awesome/css
+[2024-09-20 11:18:45] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/lib/font-awesome/css
+[2024-09-20 11:18:45] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/lib/font-awesome/css
+[2024-09-20 11:18:45] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/lib/font-awesome/css
+[2024-09-20 11:18:45] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/lib/font-awesome/css
+[2024-09-20 11:18:45] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/lib/font-awesome/css
+[2024-09-20 11:18:45] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/lib/font-awesome/css
+[2024-09-20 11:18:45] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/lib/font-awesome/css
+[2024-09-20 11:18:45] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/lib/font-awesome/css
+[2024-09-20 11:18:45] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/lib/font-awesome/css
+[2024-09-20 11:18:45] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/lib/font-awesome/css
+[2024-09-20 11:18:45] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/lib/font-awesome/css
+[2024-09-20 11:18:45] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/lib/font-awesome/css
+[2024-09-20 11:18:45] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/lib/font-awesome/css
+[2024-09-20 11:18:45] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/lib/font-awesome/fonts
+[2024-09-20 11:18:45] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/lib/font-awesome/fonts
+[2024-09-20 11:18:45] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/lib/font-awesome/fonts
+[2024-09-20 11:18:45] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/lib/font-awesome/fonts
+[2024-09-20 11:18:45] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/lib/font-awesome/fonts
+[2024-09-20 11:18:45] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/lib/font-awesome/fonts
+[2024-09-20 11:18:45] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/lib/font-awesome/js
+[2024-09-20 11:18:45] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/lib/font-awesome/js
+[2024-09-20 11:18:45] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/lib/font-awesome/js
+[2024-09-20 11:18:45] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/lib/font-awesome/js
+[2024-09-20 11:18:45] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/lib/font-awesome/js
+[2024-09-20 11:18:45] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/lib/font-awesome/json
+[2024-09-20 11:18:45] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/lib/font-awesome/json
+[2024-09-20 11:18:45] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/lib/font-awesome/json
+[2024-09-20 11:18:45] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/lib/font-awesome/migration
+[2024-09-20 11:18:45] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts
+[2024-09-20 11:18:45] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts
+[2024-09-20 11:18:45] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts
+[2024-09-20 11:18:45] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts
+[2024-09-20 11:18:45] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts
+[2024-09-20 11:18:45] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts
+[2024-09-20 11:18:45] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts
+[2024-09-20 11:18:45] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts
+[2024-09-20 11:18:45] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts
+[2024-09-20 11:18:45] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts
+[2024-09-20 11:18:45] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts
+[2024-09-20 11:18:45] [class-ss-transfer-files-locally-task.php:73] [Transfer] Total Pages:719. Processed Pages: 200
+[2024-09-20 11:18:45] [class-ss-task.php:44] Status message: [transfer_files_locally] Transferred 200 of 719 files
+[2024-09-20 11:18:45] [trait-can-process-pages.php:110] Total pages: 719; Pages remaining: 519
+[2024-09-20 11:18:45] [class-ss-archive-creation-job.php:181] We're not done with the transfer_files_locally task yet
+[2024-09-20 11:18:46] [class-ss-archive-creation-job.php:136] Current task: transfer_files_locally
+[2024-09-20 11:18:46] [class-ss-archive-creation-job.php:153] Performing task: transfer_files_locally
+[2024-09-20 11:18:46] [class-ss-task.php:44] Status message: [transfer_files_locally] Transferring 50 of 719 files
+[2024-09-20 11:18:46] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts
+[2024-09-20 11:18:47] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts
+[2024-09-20 11:18:47] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts
+[2024-09-20 11:18:47] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts
+[2024-09-20 11:18:47] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/lib/hover
+[2024-09-20 11:18:47] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/lib/hover
+[2024-09-20 11:18:47] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/lib/imagesloaded
+[2024-09-20 11:18:47] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/lib/imagesloaded
+[2024-09-20 11:18:47] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/lib/inline-editor/js
+[2024-09-20 11:18:47] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/lib/inline-editor/js
+[2024-09-20 11:18:47] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/lib/jquery-easing
+[2024-09-20 11:18:47] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/lib/jquery-easing
+[2024-09-20 11:18:47] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/lib/jquery-hover-intent
+[2024-09-20 11:18:47] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/lib/jquery-hover-intent
+[2024-09-20 11:18:47] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/lib/jquery-numerator
+[2024-09-20 11:18:47] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/lib/jquery-numerator
+[2024-09-20 11:18:47] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/lib/nouislider
+[2024-09-20 11:18:47] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/lib/nouislider
+[2024-09-20 11:18:47] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/lib/nprogress
+[2024-09-20 11:18:47] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/lib/nprogress
+[2024-09-20 11:18:47] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/lib/perfect-scrollbar/js
+[2024-09-20 11:18:47] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/lib/perfect-scrollbar/js
+[2024-09-20 11:18:47] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/lib/pickr
+[2024-09-20 11:18:47] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/lib/pickr/themes
+[2024-09-20 11:18:47] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/lib/share-link
+[2024-09-20 11:18:47] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/lib/share-link
+[2024-09-20 11:18:47] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/lib/swiper/css
+[2024-09-20 11:18:47] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/lib/swiper/css
+[2024-09-20 11:18:47] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/lib/swiper
+[2024-09-20 11:18:47] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/lib/swiper
+[2024-09-20 11:18:47] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/lib/swiper/v8/css
+[2024-09-20 11:18:47] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/lib/swiper/v8/css
+[2024-09-20 11:18:47] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/lib/swiper/v8
+[2024-09-20 11:18:47] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/lib/swiper/v8
+[2024-09-20 11:18:47] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/lib/tipsy
+[2024-09-20 11:18:47] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/lib/tipsy
+[2024-09-20 11:18:47] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:47] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:47] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:47] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:47] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:47] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:47] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:47] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:47] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:47] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:47] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:47] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:47] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:47] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:47] [class-ss-transfer-files-locally-task.php:73] [Transfer] Total Pages:719. Processed Pages: 250
+[2024-09-20 11:18:47] [class-ss-task.php:44] Status message: [transfer_files_locally] Transferred 250 of 719 files
+[2024-09-20 11:18:47] [trait-can-process-pages.php:110] Total pages: 719; Pages remaining: 469
+[2024-09-20 11:18:47] [class-ss-archive-creation-job.php:181] We're not done with the transfer_files_locally task yet
+[2024-09-20 11:18:47] [class-ss-archive-creation-job.php:136] Current task: transfer_files_locally
+[2024-09-20 11:18:47] [class-ss-archive-creation-job.php:153] Performing task: transfer_files_locally
+[2024-09-20 11:18:47] [class-ss-task.php:44] Status message: [transfer_files_locally] Transferring 50 of 719 files
+[2024-09-20 11:18:47] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:47] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:47] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:47] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:47] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:47] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:47] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:47] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:47] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:47] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:47] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:47] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:47] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:47] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:47] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:47] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:47] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:47] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:47] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:47] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:47] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:47] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:47] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:47] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:47] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:47] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:47] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:47] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:47] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:47] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:47] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:47] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:47] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:47] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:47] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:47] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:47] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:47] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:47] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:47] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:47] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:47] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:47] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:47] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:47] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:47] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:47] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:47] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:47] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:47] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:47] [class-ss-transfer-files-locally-task.php:73] [Transfer] Total Pages:719. Processed Pages: 300
+[2024-09-20 11:18:47] [class-ss-task.php:44] Status message: [transfer_files_locally] Transferred 300 of 719 files
+[2024-09-20 11:18:47] [trait-can-process-pages.php:110] Total pages: 719; Pages remaining: 419
+[2024-09-20 11:18:47] [class-ss-archive-creation-job.php:181] We're not done with the transfer_files_locally task yet
+[2024-09-20 11:18:47] [class-ss-archive-creation-job.php:136] Current task: transfer_files_locally
+[2024-09-20 11:18:47] [class-ss-archive-creation-job.php:153] Performing task: transfer_files_locally
+[2024-09-20 11:18:47] [class-ss-task.php:44] Status message: [transfer_files_locally] Transferring 50 of 719 files
+[2024-09-20 11:18:47] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:47] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:47] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:47] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:47] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:48] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:48] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:48] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:48] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:48] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:48] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:48] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:48] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:48] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:48] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:48] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:48] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:48] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:48] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:48] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:48] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:48] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:48] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:48] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:48] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:48] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:48] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:48] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:48] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:48] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:48] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:48] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:48] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:48] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:48] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:48] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:48] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:48] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:48] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:48] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:48] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:48] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:48] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:48] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:48] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:48] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:48] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:48] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:48] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:48] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:48] [class-ss-transfer-files-locally-task.php:73] [Transfer] Total Pages:719. Processed Pages: 350
+[2024-09-20 11:18:48] [class-ss-task.php:44] Status message: [transfer_files_locally] Transferred 350 of 719 files
+[2024-09-20 11:18:48] [trait-can-process-pages.php:110] Total pages: 719; Pages remaining: 369
+[2024-09-20 11:18:48] [class-ss-archive-creation-job.php:181] We're not done with the transfer_files_locally task yet
+[2024-09-20 11:18:48] [class-ss-archive-creation-job.php:136] Current task: transfer_files_locally
+[2024-09-20 11:18:48] [class-ss-archive-creation-job.php:153] Performing task: transfer_files_locally
+[2024-09-20 11:18:48] [class-ss-task.php:44] Status message: [transfer_files_locally] Transferring 50 of 719 files
+[2024-09-20 11:18:48] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:48] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:48] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:48] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:48] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:48] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:48] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:48] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:48] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:48] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:48] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:49] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:49] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:49] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:49] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:49] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:49] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:49] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:49] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:49] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:49] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:49] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:49] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:49] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:49] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:49] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js/packages/editor
+[2024-09-20 11:18:49] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js/packages/editor
+[2024-09-20 11:18:49] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js/packages/editor
+[2024-09-20 11:18:49] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js/packages/editor
+[2024-09-20 11:18:49] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js/packages/editor
+[2024-09-20 11:18:49] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js/packages/editor-app-bar
+[2024-09-20 11:18:49] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js/packages/editor-app-bar
+[2024-09-20 11:18:49] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js/packages/editor-app-bar
+[2024-09-20 11:18:49] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js/packages/editor-app-bar
+[2024-09-20 11:18:49] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js/packages/editor-app-bar
+[2024-09-20 11:18:49] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js/packages/editor-documents
+[2024-09-20 11:18:49] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js/packages/editor-documents
+[2024-09-20 11:18:49] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js/packages/editor-documents
+[2024-09-20 11:18:49] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js/packages/editor-documents
+[2024-09-20 11:18:49] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js/packages/editor-documents
+[2024-09-20 11:18:49] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js/packages/editor-editing-panel
+[2024-09-20 11:18:49] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js/packages/editor-editing-panel
+[2024-09-20 11:18:49] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js/packages/editor-editing-panel
+[2024-09-20 11:18:49] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js/packages/editor-editing-panel
+[2024-09-20 11:18:49] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js/packages/editor-editing-panel
+[2024-09-20 11:18:49] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js/packages/editor-panels
+[2024-09-20 11:18:49] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js/packages/editor-panels
+[2024-09-20 11:18:49] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js/packages/editor-panels
+[2024-09-20 11:18:49] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js/packages/editor-panels
+[2024-09-20 11:18:49] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js/packages/editor-panels
+[2024-09-20 11:18:49] [class-ss-transfer-files-locally-task.php:73] [Transfer] Total Pages:719. Processed Pages: 400
+[2024-09-20 11:18:49] [class-ss-task.php:44] Status message: [transfer_files_locally] Transferred 400 of 719 files
+[2024-09-20 11:18:49] [trait-can-process-pages.php:110] Total pages: 719; Pages remaining: 319
+[2024-09-20 11:18:49] [class-ss-archive-creation-job.php:181] We're not done with the transfer_files_locally task yet
+[2024-09-20 11:18:49] [class-ss-archive-creation-job.php:136] Current task: transfer_files_locally
+[2024-09-20 11:18:49] [class-ss-archive-creation-job.php:153] Performing task: transfer_files_locally
+[2024-09-20 11:18:49] [class-ss-task.php:44] Status message: [transfer_files_locally] Transferring 50 of 719 files
+[2024-09-20 11:18:49] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js/packages/editor-responsive
+[2024-09-20 11:18:49] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js/packages/editor-responsive
+[2024-09-20 11:18:49] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js/packages/editor-responsive
+[2024-09-20 11:18:49] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js/packages/editor-responsive
+[2024-09-20 11:18:49] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js/packages/editor-responsive
+[2024-09-20 11:18:49] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js/packages/editor-site-navigation
+[2024-09-20 11:18:49] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js/packages/editor-site-navigation
+[2024-09-20 11:18:49] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js/packages/editor-site-navigation
+[2024-09-20 11:18:49] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js/packages/editor-site-navigation
+[2024-09-20 11:18:49] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js/packages/editor-site-navigation
+[2024-09-20 11:18:49] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js/packages/editor-style
+[2024-09-20 11:18:49] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js/packages/editor-style
+[2024-09-20 11:18:49] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js/packages/editor-style
+[2024-09-20 11:18:49] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js/packages/editor-style
+[2024-09-20 11:18:49] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js/packages/editor-style
+[2024-09-20 11:18:49] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js/packages/editor-v1-adapters
+[2024-09-20 11:18:49] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js/packages/editor-v1-adapters
+[2024-09-20 11:18:49] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js/packages/editor-v1-adapters
+[2024-09-20 11:18:49] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js/packages/editor-v1-adapters
+[2024-09-20 11:18:49] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js/packages/editor-v1-adapters
+[2024-09-20 11:18:49] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js/packages/env
+[2024-09-20 11:18:49] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js/packages/env
+[2024-09-20 11:18:49] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js/packages/env
+[2024-09-20 11:18:49] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js/packages/env
+[2024-09-20 11:18:49] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js/packages/env
+[2024-09-20 11:18:49] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js/packages/icons
+[2024-09-20 11:18:49] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js/packages/icons
+[2024-09-20 11:18:49] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js/packages/icons
+[2024-09-20 11:18:49] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js/packages/icons
+[2024-09-20 11:18:49] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js/packages/icons
+[2024-09-20 11:18:49] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js/packages/locations
+[2024-09-20 11:18:49] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js/packages/locations
+[2024-09-20 11:18:49] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js/packages/locations
+[2024-09-20 11:18:49] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js/packages/locations
+[2024-09-20 11:18:49] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js/packages/locations
+[2024-09-20 11:18:49] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js/packages/query
+[2024-09-20 11:18:49] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js/packages/query
+[2024-09-20 11:18:49] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js/packages/query
+[2024-09-20 11:18:49] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js/packages/query
+[2024-09-20 11:18:49] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js/packages/query
+[2024-09-20 11:18:49] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js/packages/query
+[2024-09-20 11:18:49] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js/packages/schema
+[2024-09-20 11:18:49] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js/packages/schema
+[2024-09-20 11:18:49] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js/packages/schema
+[2024-09-20 11:18:49] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js/packages/schema
+[2024-09-20 11:18:49] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js/packages/schema
+[2024-09-20 11:18:49] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js/packages/store
+[2024-09-20 11:18:49] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js/packages/store
+[2024-09-20 11:18:49] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js/packages/store
+[2024-09-20 11:18:49] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js/packages/store
+[2024-09-20 11:18:49] [class-ss-transfer-files-locally-task.php:73] [Transfer] Total Pages:719. Processed Pages: 450
+[2024-09-20 11:18:49] [class-ss-task.php:44] Status message: [transfer_files_locally] Transferred 450 of 719 files
+[2024-09-20 11:18:49] [trait-can-process-pages.php:110] Total pages: 719; Pages remaining: 269
+[2024-09-20 11:18:49] [class-ss-archive-creation-job.php:181] We're not done with the transfer_files_locally task yet
+[2024-09-20 11:18:49] [class-ss-archive-creation-job.php:136] Current task: transfer_files_locally
+[2024-09-20 11:18:49] [class-ss-archive-creation-job.php:153] Performing task: transfer_files_locally
+[2024-09-20 11:18:49] [class-ss-task.php:44] Status message: [transfer_files_locally] Transferring 50 of 719 files
+[2024-09-20 11:18:49] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js/packages/store
+[2024-09-20 11:18:49] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js/packages/store
+[2024-09-20 11:18:49] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js/packages/ui
+[2024-09-20 11:18:49] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js/packages/ui
+[2024-09-20 11:18:49] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js/packages/ui
+[2024-09-20 11:18:49] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js/packages/ui
+[2024-09-20 11:18:49] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js/packages/ui
+[2024-09-20 11:18:49] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js/packages/ui
+[2024-09-20 11:18:49] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js/packages/utils
+[2024-09-20 11:18:49] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js/packages/utils
+[2024-09-20 11:18:49] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js/packages/utils
+[2024-09-20 11:18:49] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js/packages/utils
+[2024-09-20 11:18:49] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js/packages/utils
+[2024-09-20 11:18:49] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js/packages/wp-media
+[2024-09-20 11:18:49] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js/packages/wp-media
+[2024-09-20 11:18:49] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js/packages/wp-media
+[2024-09-20 11:18:49] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js/packages/wp-media
+[2024-09-20 11:18:49] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js/packages/wp-media
+[2024-09-20 11:18:49] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:50] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:50] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:50] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:50] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:50] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:50] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:50] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:50] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:50] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:50] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:50] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:50] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:50] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:50] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:50] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:50] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:50] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:50] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:50] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:50] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:50] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:50] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:50] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:50] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:50] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:50] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:50] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:50] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/js
+[2024-09-20 11:18:50] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/images
+[2024-09-20 11:18:50] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/images/app/onboarding
+[2024-09-20 11:18:50] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/images/app/onboarding
+[2024-09-20 11:18:50] [class-ss-transfer-files-locally-task.php:73] [Transfer] Total Pages:719. Processed Pages: 500
+[2024-09-20 11:18:50] [class-ss-task.php:44] Status message: [transfer_files_locally] Transferred 500 of 719 files
+[2024-09-20 11:18:50] [trait-can-process-pages.php:110] Total pages: 719; Pages remaining: 219
+[2024-09-20 11:18:50] [class-ss-archive-creation-job.php:181] We're not done with the transfer_files_locally task yet
+[2024-09-20 11:18:50] [class-ss-archive-creation-job.php:136] Current task: transfer_files_locally
+[2024-09-20 11:18:50] [class-ss-archive-creation-job.php:153] Performing task: transfer_files_locally
+[2024-09-20 11:18:50] [class-ss-task.php:44] Status message: [transfer_files_locally] Transferring 50 of 719 files
+[2024-09-20 11:18:50] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/images/app/onboarding
+[2024-09-20 11:18:50] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/images/app/onboarding
+[2024-09-20 11:18:50] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/images/app/onboarding
+[2024-09-20 11:18:50] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/images/app/onboarding
+[2024-09-20 11:18:50] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/images/app/site-editor
+[2024-09-20 11:18:50] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/images/app/site-editor
+[2024-09-20 11:18:50] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/images/app/site-editor
+[2024-09-20 11:18:50] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/images/app/site-editor
+[2024-09-20 11:18:50] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/images/app/site-editor
+[2024-09-20 11:18:50] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/images/app/site-editor
+[2024-09-20 11:18:50] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/images/app/site-editor
+[2024-09-20 11:18:50] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/images/app/site-editor
+[2024-09-20 11:18:50] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/images/app/site-editor
+[2024-09-20 11:18:50] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/images
+[2024-09-20 11:18:50] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/images
+[2024-09-20 11:18:51] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/images
+[2024-09-20 11:18:51] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/images
+[2024-09-20 11:18:51] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/images
+[2024-09-20 11:18:51] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/images
+[2024-09-20 11:18:51] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/images
+[2024-09-20 11:18:51] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/images
+[2024-09-20 11:18:51] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/images/library-connect
+[2024-09-20 11:18:51] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/images/library-connect
+[2024-09-20 11:18:51] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/images/library-connect
+[2024-09-20 11:18:51] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/images/library-connect
+[2024-09-20 11:18:51] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/images
+[2024-09-20 11:18:51] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/images
+[2024-09-20 11:18:51] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/images
+[2024-09-20 11:18:51] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/images
+[2024-09-20 11:18:51] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/images
+[2024-09-20 11:18:51] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/images
+[2024-09-20 11:18:51] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/shapes
+[2024-09-20 11:18:51] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/shapes
+[2024-09-20 11:18:51] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/shapes
+[2024-09-20 11:18:51] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/shapes
+[2024-09-20 11:18:51] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/shapes
+[2024-09-20 11:18:51] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/shapes
+[2024-09-20 11:18:51] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/shapes
+[2024-09-20 11:18:51] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/shapes
+[2024-09-20 11:18:51] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/shapes
+[2024-09-20 11:18:51] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/shapes
+[2024-09-20 11:18:51] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/shapes
+[2024-09-20 11:18:51] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/shapes
+[2024-09-20 11:18:51] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/shapes
+[2024-09-20 11:18:51] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/shapes
+[2024-09-20 11:18:51] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/shapes
+[2024-09-20 11:18:51] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/shapes
+[2024-09-20 11:18:51] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/shapes
+[2024-09-20 11:18:51] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/shapes
+[2024-09-20 11:18:51] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/shapes
+[2024-09-20 11:18:51] [class-ss-transfer-files-locally-task.php:73] [Transfer] Total Pages:719. Processed Pages: 550
+[2024-09-20 11:18:51] [class-ss-task.php:44] Status message: [transfer_files_locally] Transferred 550 of 719 files
+[2024-09-20 11:18:51] [trait-can-process-pages.php:110] Total pages: 719; Pages remaining: 169
+[2024-09-20 11:18:51] [class-ss-archive-creation-job.php:181] We're not done with the transfer_files_locally task yet
+[2024-09-20 11:18:51] [class-ss-archive-creation-job.php:136] Current task: transfer_files_locally
+[2024-09-20 11:18:51] [class-ss-archive-creation-job.php:153] Performing task: transfer_files_locally
+[2024-09-20 11:18:51] [class-ss-task.php:44] Status message: [transfer_files_locally] Transferring 50 of 719 files
+[2024-09-20 11:18:51] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/shapes
+[2024-09-20 11:18:51] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/shapes
+[2024-09-20 11:18:51] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/shapes
+[2024-09-20 11:18:51] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/shapes
+[2024-09-20 11:18:51] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/shapes
+[2024-09-20 11:18:51] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/shapes
+[2024-09-20 11:18:51] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/shapes
+[2024-09-20 11:18:51] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/shapes
+[2024-09-20 11:18:51] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/shapes
+[2024-09-20 11:18:51] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/shapes
+[2024-09-20 11:18:51] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/mask-shapes
+[2024-09-20 11:18:51] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/mask-shapes
+[2024-09-20 11:18:51] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/mask-shapes
+[2024-09-20 11:18:51] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/mask-shapes
+[2024-09-20 11:18:51] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/mask-shapes
+[2024-09-20 11:18:51] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/mask-shapes
+[2024-09-20 11:18:51] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/svg-paths
+[2024-09-20 11:18:51] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/svg-paths
+[2024-09-20 11:18:51] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/svg-paths
+[2024-09-20 11:18:51] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/svg-paths
+[2024-09-20 11:18:51] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/svg-paths
+[2024-09-20 11:18:51] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/svg-paths
+[2024-09-20 11:18:51] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/data
+[2024-09-20 11:18:51] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/about-us
+[2024-09-20 11:18:51] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/services
+[2024-09-20 11:18:51] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/contact-us
+[2024-09-20 11:18:51] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/the-science-behind-data-driven-digital-marketing-decisions
+[2024-09-20 11:18:51] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/pay-per-click-ppc-advertising-a-guide-for-success
+[2024-09-20 11:18:51] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/email-marketing-tactics-that-convert-leads-to-customers
+[2024-09-20 11:18:52] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/uploads/2024/09
+[2024-09-20 11:18:52] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/uploads/2024/09
+[2024-09-20 11:18:52] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/uploads/2024/09
+[2024-09-20 11:18:52] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/uploads/2024/09
+[2024-09-20 11:18:52] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/uploads/2024/09
+[2024-09-20 11:18:52] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/uploads/2024/09
+[2024-09-20 11:18:52] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/uploads/2024/09
+[2024-09-20 11:18:52] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/uploads/2024/09
+[2024-09-20 11:18:52] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/uploads/2024/09
+[2024-09-20 11:18:52] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/uploads/2024/09
+[2024-09-20 11:18:52] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/uploads/2024/09
+[2024-09-20 11:18:52] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/uploads/2024/09
+[2024-09-20 11:18:52] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/uploads/2024/09
+[2024-09-20 11:18:52] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/uploads/2024/09
+[2024-09-20 11:18:52] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/uploads/2024/09
+[2024-09-20 11:18:52] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/uploads/2024/09
+[2024-09-20 11:18:52] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/uploads/2024/09
+[2024-09-20 11:18:52] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/uploads/2024/09
+[2024-09-20 11:18:52] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/uploads/2024/09
+[2024-09-20 11:18:52] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/uploads/2024/09
+[2024-09-20 11:18:52] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/uploads/2024/09
+[2024-09-20 11:18:52] [class-ss-transfer-files-locally-task.php:73] [Transfer] Total Pages:719. Processed Pages: 600
+[2024-09-20 11:18:52] [class-ss-task.php:44] Status message: [transfer_files_locally] Transferred 600 of 719 files
+[2024-09-20 11:18:52] [trait-can-process-pages.php:110] Total pages: 719; Pages remaining: 119
+[2024-09-20 11:18:52] [class-ss-archive-creation-job.php:181] We're not done with the transfer_files_locally task yet
+[2024-09-20 11:18:52] [class-ss-archive-creation-job.php:136] Current task: transfer_files_locally
+[2024-09-20 11:18:52] [class-ss-archive-creation-job.php:153] Performing task: transfer_files_locally
+[2024-09-20 11:18:52] [class-ss-task.php:44] Status message: [transfer_files_locally] Transferring 50 of 719 files
+[2024-09-20 11:18:52] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/uploads/2024/09
+[2024-09-20 11:18:52] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/uploads/2024/09
+[2024-09-20 11:18:52] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/uploads/2024/09
+[2024-09-20 11:18:52] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/uploads/2024/09
+[2024-09-20 11:18:52] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/uploads/2024/09
+[2024-09-20 11:18:52] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/uploads/2024/09
+[2024-09-20 11:18:52] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/uploads/2024/09
+[2024-09-20 11:18:52] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/uploads/2024/09
+[2024-09-20 11:18:52] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/uploads/2024/09
+[2024-09-20 11:18:52] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/uploads/2024/09
+[2024-09-20 11:18:52] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/rometheme-for-elementor/widgets/assets/js
+[2024-09-20 11:18:52] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/rometheme-for-elementor/widgets/assets/js
+[2024-09-20 11:18:52] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-includes/js/jquery
+[2024-09-20 11:18:52] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-includes/js/jquery
+[2024-09-20 11:18:52] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/rometheme-for-elementor/widgets/assets/js
+[2024-09-20 11:18:52] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/rometheme-for-elementor/widgets/assets/js
+[2024-09-20 11:18:52] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/rometheme-for-elementor/widgets/assets/js
+[2024-09-20 11:18:52] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/rometheme-for-elementor/widgets/assets/js
+[2024-09-20 11:18:52] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/rometheme-for-elementor/widgets/assets/js
+[2024-09-20 11:18:52] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/rometheme-for-elementor/widgets/assets/js
+[2024-09-20 11:18:52] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/rometheme-for-elementor/widgets/assets/js
+[2024-09-20 11:18:52] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/themes/astra/assets/js/minified
+[2024-09-20 11:18:52] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/rometheme-for-elementor/widgets/assets/js
+[2024-09-20 11:18:52] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/rometheme-for-elementor/widgets/assets/js
+[2024-09-20 11:18:52] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/rometheme-for-elementor/widgets/assets/js
+[2024-09-20 11:18:52] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/rometheme-for-elementor/widgets/assets/js
+[2024-09-20 11:18:52] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/rometheme-for-elementor/widgets/assets/js
+[2024-09-20 11:18:52] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/rometheme-for-elementor/widgets/assets/js
+[2024-09-20 11:18:52] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/rometheme-for-elementor/widgets/assets/js
+[2024-09-20 11:18:52] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/rometheme-for-elementor/widgets/assets/js
+[2024-09-20 11:18:52] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementskit-lite/libs/framework/assets/js
+[2024-09-20 11:18:52] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementskit-lite/widgets/init/assets/js
+[2024-09-20 11:18:52] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/js/view
+[2024-09-20 11:18:52] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/header-footer-elementor/inc/js
+[2024-09-20 11:18:52] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-includes/js/jquery/ui
+[2024-09-20 11:18:52] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementskit-lite/widgets/init/assets/js
+[2024-09-20 11:18:52] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementskit-lite/widgets/init/assets/js
+[2024-09-20 11:18:52] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/feed
+[2024-09-20 11:18:52] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/comments/feed
+[2024-09-20 11:18:52] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/themes/astra/assets/css/minified
+[2024-09-20 11:18:52] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/header-footer-elementor/inc/widgets-css
+[2024-09-20 11:18:52] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/rometheme-for-elementor/widgets/assets/css
+[2024-09-20 11:18:52] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/rometheme-for-elementor/widgets/assets/css
+[2024-09-20 11:18:52] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/rometheme-for-elementor/widgets/assets/css
+[2024-09-20 11:18:52] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/rometheme-for-elementor/widgets/assets/css
+[2024-09-20 11:18:52] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/rometheme-for-elementor/widgets/assets/css
+[2024-09-20 11:18:52] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/rometheme-for-elementor/widgets/assets/css
+[2024-09-20 11:18:52] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/rometheme-for-elementor/widgets/assets/css
+[2024-09-20 11:18:52] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/rometheme-for-elementor/widgets/assets/css
+[2024-09-20 11:18:52] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/rometheme-for-elementor/widgets/assets/css
+[2024-09-20 11:18:52] [class-ss-transfer-files-locally-task.php:73] [Transfer] Total Pages:719. Processed Pages: 650
+[2024-09-20 11:18:52] [class-ss-task.php:44] Status message: [transfer_files_locally] Transferred 650 of 719 files
+[2024-09-20 11:18:52] [trait-can-process-pages.php:110] Total pages: 719; Pages remaining: 69
+[2024-09-20 11:18:52] [class-ss-archive-creation-job.php:181] We're not done with the transfer_files_locally task yet
+[2024-09-20 11:18:52] [class-ss-archive-creation-job.php:136] Current task: transfer_files_locally
+[2024-09-20 11:18:52] [class-ss-archive-creation-job.php:153] Performing task: transfer_files_locally
+[2024-09-20 11:18:52] [class-ss-task.php:44] Status message: [transfer_files_locally] Transferring 50 of 719 files
+[2024-09-20 11:18:52] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/rometheme-for-elementor/widgets/assets/css
+[2024-09-20 11:18:52] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/rometheme-for-elementor/widgets/assets/css
+[2024-09-20 11:18:52] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/rometheme-for-elementor/widgets/assets/css
+[2024-09-20 11:18:52] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/rometheme-for-elementor/widgets/assets/css
+[2024-09-20 11:18:52] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/rometheme-for-elementor/widgets/assets/css
+[2024-09-20 11:18:52] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/rometheme-for-elementor/widgets/assets/css
+[2024-09-20 11:18:52] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/rometheme-for-elementor/widgets/assets/css
+[2024-09-20 11:18:52] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/rometheme-for-elementor/widgets/assets/css
+[2024-09-20 11:18:52] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/rometheme-for-elementor/widgets/assets/css
+[2024-09-20 11:18:52] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/rometheme-for-elementor/widgets/assets/css
+[2024-09-20 11:18:52] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/rometheme-for-elementor/widgets/assets/css
+[2024-09-20 11:18:52] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/rometheme-for-elementor/widgets/assets/css
+[2024-09-20 11:18:52] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/rometheme-for-elementor/widgets/assets/css
+[2024-09-20 11:18:52] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/rometheme-for-elementor/assets/css
+[2024-09-20 11:18:52] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/rometheme-for-elementor/assets/css
+[2024-09-20 11:18:52] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/header-footer-elementor/assets/css
+[2024-09-20 11:18:52] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/css
+[2024-09-20 11:18:52] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/css/conditionals
+[2024-09-20 11:18:52] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/uploads/elementor/css
+[2024-09-20 11:18:52] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/uploads/elementor/css
+[2024-09-20 11:18:52] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/css
+[2024-09-20 11:18:52] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/css
+[2024-09-20 11:18:52] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/css
+[2024-09-20 11:18:52] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/css
+[2024-09-20 11:18:52] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/css
+[2024-09-20 11:18:52] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/css
+[2024-09-20 11:18:52] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/css
+[2024-09-20 11:18:52] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/uploads/elementor/css
+[2024-09-20 11:18:52] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/uploads/elementor/css
+[2024-09-20 11:18:52] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/uploads/elementor/css
+[2024-09-20 11:18:52] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementskit-lite/modules/elementskit-icon-pack/assets/css
+[2024-09-20 11:18:52] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementskit-lite/widgets/init/assets/css
+[2024-09-20 11:18:52] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementskit-lite/widgets/init/assets/css
+[2024-09-20 11:18:52] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/css/view
+[2024-09-20 11:18:52] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-json
+[2024-09-20 11:18:52] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-json/wp/v2/pages
+[2024-09-20 11:18:52] [class-ss-transfer-files-locally-task.php:115] Cannot copy D:/Xampp/htdocs/Sample/wp-content/uploads/simply-static/temp-files/simply-static-1-1726830946/wp-json/wp/v2/pages/13/index.html to D:/Xampp/htdocs/Sample/wp-json/wp/v2/pages/13/index.html
+[2024-09-20 11:18:52] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/css
+[2024-09-20 11:18:52] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-json/wp/v2/pages
+[2024-09-20 11:18:52] [class-ss-transfer-files-locally-task.php:115] Cannot copy D:/Xampp/htdocs/Sample/wp-content/uploads/simply-static/temp-files/simply-static-1-1726830946/wp-json/wp/v2/pages/16/index.html to D:/Xampp/htdocs/Sample/wp-json/wp/v2/pages/16/index.html
+[2024-09-20 11:18:52] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-json/wp/v2/pages
+[2024-09-20 11:18:52] [class-ss-transfer-files-locally-task.php:115] Cannot copy D:/Xampp/htdocs/Sample/wp-content/uploads/simply-static/temp-files/simply-static-1-1726830946/wp-json/wp/v2/pages/18/index.html to D:/Xampp/htdocs/Sample/wp-json/wp/v2/pages/18/index.html
+[2024-09-20 11:18:52] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/wpforms-lite/assets/images
+[2024-09-20 11:18:53] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementor/assets/css
+[2024-09-20 11:18:53] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-json/wp/v2/pages
+[2024-09-20 11:18:53] [class-ss-transfer-files-locally-task.php:115] Cannot copy D:/Xampp/htdocs/Sample/wp-content/uploads/simply-static/temp-files/simply-static-1-1726830946/wp-json/wp/v2/pages/25/index.html to D:/Xampp/htdocs/Sample/wp-json/wp/v2/pages/25/index.html
+[2024-09-20 11:18:53] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/author/admin
+[2024-09-20 11:18:53] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-includes/js
+[2024-09-20 11:18:53] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/the-science-behind-data-driven-digital-marketing-decisions/feed
+[2024-09-20 11:18:53] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-includes/css/dist/block-library
+[2024-09-20 11:18:53] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-json/wp/v2/posts
+[2024-09-20 11:18:53] [class-ss-transfer-files-locally-task.php:115] Cannot copy D:/Xampp/htdocs/Sample/wp-content/uploads/simply-static/temp-files/simply-static-1-1726830946/wp-json/wp/v2/posts/204/index.html to D:/Xampp/htdocs/Sample/wp-json/wp/v2/posts/204/index.html
+[2024-09-20 11:18:53] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/pay-per-click-ppc-advertising-a-guide-for-success/feed
+[2024-09-20 11:18:53] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-json/wp/v2/posts
+[2024-09-20 11:18:53] [class-ss-transfer-files-locally-task.php:115] Cannot copy D:/Xampp/htdocs/Sample/wp-content/uploads/simply-static/temp-files/simply-static-1-1726830946/wp-json/wp/v2/posts/201/index.html to D:/Xampp/htdocs/Sample/wp-json/wp/v2/posts/201/index.html
+[2024-09-20 11:18:53] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/email-marketing-tactics-that-convert-leads-to-customers/feed
+[2024-09-20 11:18:53] [class-ss-transfer-files-locally-task.php:73] [Transfer] Total Pages:719. Processed Pages: 700
+[2024-09-20 11:18:53] [class-ss-task.php:44] Status message: [transfer_files_locally] Transferred 700 of 719 files
+[2024-09-20 11:18:53] [trait-can-process-pages.php:110] Total pages: 719; Pages remaining: 19
+[2024-09-20 11:18:53] [class-ss-archive-creation-job.php:181] We're not done with the transfer_files_locally task yet
+[2024-09-20 11:18:53] [class-ss-archive-creation-job.php:136] Current task: transfer_files_locally
+[2024-09-20 11:18:53] [class-ss-archive-creation-job.php:153] Performing task: transfer_files_locally
+[2024-09-20 11:18:53] [class-ss-task.php:44] Status message: [transfer_files_locally] Transferring 19 of 719 files
+[2024-09-20 11:18:53] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-json/wp/v2/posts
+[2024-09-20 11:18:53] [class-ss-transfer-files-locally-task.php:115] Cannot copy D:/Xampp/htdocs/Sample/wp-content/uploads/simply-static/temp-files/simply-static-1-1726830946/wp-json/wp/v2/posts/197/index.html to D:/Xampp/htdocs/Sample/wp-json/wp/v2/posts/197/index.html
+[2024-09-20 11:18:53] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/rometheme-for-elementor/assets/fonts
+[2024-09-20 11:18:53] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/rometheme-for-elementor/assets/fonts
+[2024-09-20 11:18:53] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/rometheme-for-elementor/assets/fonts
+[2024-09-20 11:18:53] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/rometheme-for-elementor/assets/fonts
+[2024-09-20 11:18:53] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/uploads/2024/09
+[2024-09-20 11:18:53] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/uploads/2024/09
+[2024-09-20 11:18:53] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/uploads/2024/09
+[2024-09-20 11:18:53] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementskit-lite/modules/elementskit-icon-pack/assets/fonts
+[2024-09-20 11:18:53] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementskit-lite/widgets/init/assets/img
+[2024-09-20 11:18:53] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementskit-lite/widgets/init/assets/img
+[2024-09-20 11:18:53] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementskit-lite/widgets/init/assets/img
+[2024-09-20 11:18:53] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementskit-lite/widgets/init/assets/img
+[2024-09-20 11:18:53] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-content/plugins/elementskit-lite/widgets/init/assets/img
+[2024-09-20 11:18:53] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/category/uncategorized
+[2024-09-20 11:18:53] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/author/admin/feed
+[2024-09-20 11:18:53] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-json/wp/v2/users
+[2024-09-20 11:18:53] [class-ss-transfer-files-locally-task.php:115] Cannot copy D:/Xampp/htdocs/Sample/wp-content/uploads/simply-static/temp-files/simply-static-1-1726830946/wp-json/wp/v2/users/1/index.html to D:/Xampp/htdocs/Sample/wp-json/wp/v2/users/1/index.html
+[2024-09-20 11:18:53] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/category/uncategorized/feed
+[2024-09-20 11:18:53] [class-ss-transfer-files-locally-task.php:102] Trying to transfer: D:/Xampp/htdocs/Sample/wp-json/wp/v2/categories
+[2024-09-20 11:18:53] [class-ss-transfer-files-locally-task.php:115] Cannot copy D:/Xampp/htdocs/Sample/wp-content/uploads/simply-static/temp-files/simply-static-1-1726830946/wp-json/wp/v2/categories/1/index.html to D:/Xampp/htdocs/Sample/wp-json/wp/v2/categories/1/index.html
+[2024-09-20 11:18:53] [class-ss-transfer-files-locally-task.php:73] [Transfer] Total Pages:719. Processed Pages: 719
+[2024-09-20 11:18:53] [class-ss-task.php:44] Status message: [transfer_files_locally] Transferred 719 of 719 files
+[2024-09-20 11:18:53] [trait-can-process-pages.php:110] Total pages: 719; Pages remaining: 0
+[2024-09-20 11:18:53] [class-ss-transfer-files-locally-task.php:238] Transferring 404 Page
+[2024-09-20 11:18:53] [class-ss-transfer-files-locally-task.php:257] Destination 404 Page found at D:/Xampp/htdocs/Sample\404\index.html
+[2024-09-20 11:18:53] [class-ss-transfer-files-locally-task.php:261] Success
+[2024-09-20 11:18:53] [class-ss-task.php:44] Status message: [destination_url] Destination URL: <a href="https://priti8903.github.io/sample/" target="_blank">https://priti8903.github.io/sample/</a>
+[2024-09-20 11:18:53] [class-ss-archive-creation-job.php:175] We've found our next task: wrapup
+[2024-09-20 11:18:53] [class-ss-archive-creation-job.php:136] Current task: wrapup
+[2024-09-20 11:18:53] [class-ss-archive-creation-job.php:153] Performing task: wrapup
+[2024-09-20 11:18:53] [class-ss-wrapup-task.php:22] Deleting temporary files
+[2024-09-20 11:18:53] [class-ss-task.php:44] Status message: [wrapup] Wrapping up
+[2024-09-20 11:18:53] [class-ss-archive-creation-job.php:170] This task is done and there are no more tasks, time to complete the job
+[2024-09-20 11:18:54] [class-ss-archive-creation-job.php:197] Completing the job
+[2024-09-20 11:18:54] [class-ss-archive-creation-job.php:324] Status message: [done] Done! Finished in 00:03:08
